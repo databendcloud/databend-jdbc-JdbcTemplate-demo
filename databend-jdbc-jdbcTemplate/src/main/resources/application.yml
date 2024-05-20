@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    driverClassName: com.databend.jdbc.DatabendDriver
+    url: jdbc:databend//localhost:8000/springbootdemo
+    username: databend
+    password: databend
